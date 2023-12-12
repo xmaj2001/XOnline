@@ -1,0 +1,2 @@
+<li><a class="dropdown-item text-white w3-hover-black" href="/login"><i class="fa fa-sign-in"></i> Entrar</a></li>
+<li><a class="dropdown-item text-white w3-hover-black" href="/criar-conta"><i class="fa fa-sign-in"></i> Criar uma conta</a></li>
